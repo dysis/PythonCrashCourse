@@ -7,7 +7,7 @@ def make_album(artist_name, album_title, tracks = ''):
 
 
 while True:
-    print("\nPlease give me the deatils on the album:")
+    print("\nPlease give me the details on the album:")
     print("(At any time you type 'q' to quit.")
 
     alb_name = input("Input Album Name: ")
